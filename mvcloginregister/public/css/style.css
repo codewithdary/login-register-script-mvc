@@ -142,6 +142,7 @@ input::placeholder {
 
 .invalidFeedback {
     color: #ff0000;
+    display: block;
 }
 
 
